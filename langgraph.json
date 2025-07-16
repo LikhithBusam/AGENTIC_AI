@@ -1,0 +1,7 @@
+ {
+  "dependencies": ["."],
+  "graphs": {
+    "gemini_agent": "./gemini_agent.py:agent"
+  },
+  "env": "../.env"
+}
